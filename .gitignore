@@ -1,0 +1,8 @@
+# Wordpress config
+wp-config.php
+
+#
+**/.idea
+**/.DS_Store
+
+wp-content/themes/*
